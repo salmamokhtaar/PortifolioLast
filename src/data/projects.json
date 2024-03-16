@@ -1,0 +1,26 @@
+[
+  {
+    "title": "FullStack Project",
+    "imageSrc": "projects/fullstackjobportal.png",
+    "description": "This is FullStack Project Job Finding Portal ",
+    "skills": ["React", "Express", "Node", "Mongodb"],
+    "demo": "https://client-side-lake.vercel.app/",
+    "source": "https://github.com/salmamokhtaar/Job-Finding-Portal"
+  },
+  {
+    "title": "Frontend Project",
+    "imageSrc": "projects/frontendFlower.png",
+    "description": "This is Frontend Project  Flower Website Full  Beutifull Design",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://salmamokhtaar.github.io/FrontEndProject/",
+    "source": "https://github.com/salmamokhtaar/FrontEndProject"
+  },
+  {
+    "title": "E-commerce",
+    "imageSrc": "projects/e-commerce.png",
+    "description": "This is Ecommerce Website You Can Order Everything ",
+    "skills": ["React", "TailwindCss"],
+    "demo": "https://github.com/salmamokhtaar/E-commerce-Full",
+    "source": "https://e-commerce-full-beta.vercel.app/"
+  }
+]
