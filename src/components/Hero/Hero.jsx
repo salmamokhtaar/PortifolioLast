@@ -1,5 +1,5 @@
 import React from "react";
-import mycv from '../../../assets/MyCV.pdf'
+import salma from '../../../assets/SalmoCv.pdf'
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
@@ -16,7 +16,7 @@ export const Hero = () => {
         <p className={styles.description}>
       I am a fullstack developer passionate about creating robust and scalable web applications. My expertise spans both frontend and backend technologies, allowing me to design and implement end-to-end solutions.
         </p>
-        <a href={mycv}  className={styles.contactBtn}>
+        <a href={salma}  className={styles.contactBtn}>
            Resume
         </a>
           
