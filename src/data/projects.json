@@ -22,5 +22,29 @@
     "skills": ["React", "TailwindCss"],
     "demo": "https://github.com/salmamokhtaar/E-commerce-Full",
     "source": "https://e-commerce-full-beta.vercel.app/"
+  },
+  {
+    "title": "Bookstore",
+    "imageSrc": "projects/bookstore.png",
+    "description": "This is BookStore Website You Can Read or Buy Book ",
+    "skills": ["React", "Mongodb"],
+    "demo": "https://github.com/salmamokhtaar/Mern_Book_Project-Group",
+    "source": "https://github.com/salmamokhtaar/Mern_Book_Project-Group"
+  },
+  {
+    "title": "Hotel",
+    "imageSrc": "projects/hotel.png",
+    "description": "This is Frontend Hotel Website",
+    "skills": ["Html", "Css"],
+    "demo": "https://github.com/salmamokhtaar/Hotel-Design",
+    "source": "https://salmamokhtaar.github.io/Hotel-Design/"
+  },
+  {
+    "title": "SomaliQuotes",
+    "imageSrc": "projects/somaliquotes.png",
+    "description": "This is JavaScript",
+    "skills": ["Html", "Css","JavaScript"],
+    "demo": "https://somaliquotesmaahmaahyo.vercel.app/",
+    "source": "https://github.com/salmamokhtaar/SomaliQuotes"
   }
 ]
